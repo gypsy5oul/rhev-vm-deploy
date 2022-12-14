@@ -1,2 +1,2 @@
 user,domain,role,system
-newuser,internal,UserVmManager,webserver
+devopsuser,internal,testuser,webserver
